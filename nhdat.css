@@ -1,0 +1,16 @@
+.header{
+	background-color: #2f6baa;
+	color: white;
+	font-weight: bold;
+
+}
+.navbar{
+	margin-bottom: 0;
+}
+@media (min-width: 768px)
+.navbar {
+    border-radius: 4px;
+}
+.content{
+	padding-top: 50px;
+}
