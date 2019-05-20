@@ -19,7 +19,11 @@
 	/*border-bottom: 3px solid #FFC20E;*/
 }
 .body{
-	border-top: 3px solid #FFC20E;
+	border-top: 3px solid #FFC20E;	
+}
+.tintuc{
+	
+	padding: 20px 0px 0px 5px;
 }
 .thumbnail{
     padding: 0px;
