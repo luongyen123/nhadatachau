@@ -14,3 +14,16 @@
 .content{
 	padding-top: 50px;
 }
+#duan{
+	width: 50%;
+	/*border-bottom: 3px solid #FFC20E;*/
+}
+.body{
+	border-top: 3px solid #FFC20E;
+}
+.thumbnail{
+    padding: 0px;
+    margin-bottom: 0px;   
+    background-color: #fff;
+   	border: none; 
+}
